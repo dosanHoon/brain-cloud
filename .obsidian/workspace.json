@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발/tailwind/Tailwind @layer @apply.md",
+                "file": "개발/convention/git commit 접두어.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tailwind @layer @apply"
+              "title": "git commit 접두어"
             }
           }
         ]
@@ -165,8 +165,10 @@
   },
   "active": "1d943d9895f42794",
   "lastOpenFiles": [
-    "독서/고독을 잃어버린 시간.md",
     "개발/tailwind/Tailwind @layer @apply.md",
+    "개발/convention/git commit 접두어.md",
+    "개발/convention",
+    "독서/고독을 잃어버린 시간.md",
     "개발/Untitled.md",
     "개발/tailwind",
     "Untitled.md",
