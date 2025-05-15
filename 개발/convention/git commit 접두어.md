@@ -24,19 +24,19 @@ CI/CD 자동화, 릴리즈 노트 자동 생성, 협업 이력 추적 등에도 
 
 ## 자주 쓰는 커밋 접두어 정리
 
-| 접두어 | 설명 | 예시 |
-|--------|------|------|
-| `feat` | 새로운 기능 추가 | `feat: 다크모드 토글 기능 추가` |
-| `fix` | 버그 수정 | `fix: 로그인 시 토큰 만료 오류 수정` |
-| `docs` | 문서 수정 | `docs: README에 설치 방법 추가` |
-| `style` | 코드 포맷팅 변경 (기능 변화 없음) | `style: prettier 적용 및 세미콜론 정리` |
-| `refactor` | 리팩토링 (기능은 그대로, 코드 구조 개선) | `refactor: useEffect 로직 분리` |
-| `perf` | 성능 개선 | `perf: 이미지 lazy loading 적용` |
-| `test` | 테스트 코드 추가/수정 | `test: 로그인 유닛 테스트 추가` |
-| `chore` | 빌드 설정, 패키지 관리 등 기타 | `chore: eslint 버전 업데이트` |
-| `build` | 빌드 관련 설정 변경 | `build: Vite 설정 수정` |
-| `ci` | CI 설정 수정 | `ci: GitHub Actions 워크플로 수정` |
-| `revert` | 이전 커밋 되돌림 | `revert: api url 변경 되돌리기` |
+| 접두어        | 설명                       | 예시                             |
+| ---------- | ------------------------ | ------------------------------ |
+| `feat`     | 새로운 기능 추가                | `feat: 다크모드 토글 기능 추가`          |
+| `fix`      | 버그 수정                    | `fix: 로그인 시 토큰 만료 오류 수정`       |
+| `docs`     | 문서 수정                    | `docs: README에 설치 방법 추가`       |
+| `style`    | 코드 포맷팅 변경 (기능 변화 없음)     | `style: prettier 적용 및 세미콜론 정리` |
+| `refactor` | 리팩토링 (기능은 그대로, 코드 구조 개선) | `refactor: useEffect 로직 분리`    |
+| `perf`     | 성능 개선                    | `perf: 이미지 lazy loading 적용`    |
+| `test`     | 테스트 코드 추가/수정             | `test: 로그인 유닛 테스트 추가`          |
+| `chore`    | 빌드 설정, 패키지 관리 등 기타       | `chore: eslint 버전 업데이트`        |
+| `build`    | 빌드 관련 설정 변경              | `build: Vite 설정 수정`            |
+| `ci`       | CI 설정 수정                 | `ci: GitHub Actions 워크플로 수정`   |
+| `revert`   | 이전 커밋 되돌림                | `revert: api url 변경 되돌리기`      |
 
 ---
 
