@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발/AI/context7.md",
+                "file": "독서/진짜 노동 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "context7"
+              "title": "진짜 노동 1"
             }
           }
         ],
@@ -235,8 +235,8 @@
   },
   "active": "14d92bb3722ca6a8",
   "lastOpenFiles": [
-    "개발/도커/도커 멀티 스테이지.md",
     "개발/AI/context7.md",
+    "개발/도커/도커 멀티 스테이지.md",
     "개발/AI",
     "개발/최적화/이미지 프록시 옵션 체계.md",
     "개발/도커",
@@ -244,7 +244,7 @@
     "개발/최적화/CDN에서 이미지 최적화.md",
     "개발/최적화/리액트·Next.js에서 이미지.md",
     "개발/web/WebP vs SVG, 그리고 Next.js에서의 실전 활용법.md",
-    "독서/진짜 노동.md",
+    "독서/진짜 노동 1.md",
     "개발/최적화",
     "개발/web/200 과 201.md",
     "개발/git/author 변경.md",
